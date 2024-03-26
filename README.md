@@ -1,6 +1,6 @@
-#AJAX CRUD || JQuery & PHP & Bootstrap
+# AJAX CRUD || JQuery & PHP & Bootstrap
 
-##Pre-Requisite
+## Pre-Requisite
 
 -Import the DB students.sql in Xampp/Wamp
 
